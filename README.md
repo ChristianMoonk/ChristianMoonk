@@ -29,8 +29,8 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></a></br>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/AndroidStudio-000000?style=plastic&logo=AndroidStudio&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-00A98F?style=plastic&logo=Pycharm&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/AndroidStudio-0085CA?style=plastic&logo=AndroidStudio&logoColor=white"/></a>
 </div>
 <br/><br/>
 <br/><br/>
