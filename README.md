@@ -29,9 +29,9 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/AndroidStudio-000000?style=plastic&logo=AndroidStudio&logoColor=white"/></a>
 </div>
-<!-- <br/><br/>
 <br/><br/>
-<div align= "center">
+<br/><br/>
+<!-- <div align= "center">
     <h3>📫Contacts📫</h3>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
