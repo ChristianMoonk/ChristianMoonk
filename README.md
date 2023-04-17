@@ -8,6 +8,7 @@
 <div align= "center">
     <h3>📚Stack</h3>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-FC08D?style=plastic&logo=Flutter&logoColor=white"/></a><br/>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-FC08D?style=plastic&logo=Dart&logoColor=white"/></a><br/>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-02456C?style=plastic&logo=python&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-173B3F?style=plastic&logo=Anaconda&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/></a>
