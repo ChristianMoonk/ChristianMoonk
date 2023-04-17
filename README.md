@@ -16,7 +16,7 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-FC08D?style=plastic&logo=React&logoColor=white"/></a><br/>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/React-FC08D?style=plastic&logo=React&logoColor=white"/></a><br/>
 </div>
 <br/><br/>
 <br/><br/>
