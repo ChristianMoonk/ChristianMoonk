@@ -27,9 +27,9 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></a></br>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=AndroidStudio&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/AndroidStudio-000000?style=plastic&logo=AndroidStudio&logoColor=white"/></a>
 </div>
-<br/><br/>
+<!-- <br/><br/>
 <br/><br/>
 <div align= "center">
     <h3>📫Contacts📫</h3>
@@ -38,10 +38,10 @@
         <a href=""><img src="https://img.shields.io/badge/dockerhub-2496ED?style=plastic&logo=docker&logoColor=white"/></a>
 </div>
 <br/><br/>
-<br/><br/>
+<br/><br/> -->
 
 <div align= "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChristianMoonk&show_icons=true&theme=gotham"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Seongjun&show_icons=true&theme=gotham"/>
 </div>
 <br/><br/>
 <br/><br/>
